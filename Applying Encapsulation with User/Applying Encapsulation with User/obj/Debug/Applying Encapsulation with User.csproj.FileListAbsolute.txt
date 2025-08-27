@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Desktop\Oop\Applying Encapsulation with User\Applying Encapsulation with User\bin\Debug\Applying Encapsulation with User.exe.config
+C:\Users\ACT-STUDENT\Desktop\Oop\Applying Encapsulation with User\Applying Encapsulation with User\bin\Debug\Applying Encapsulation with User.exe
+C:\Users\ACT-STUDENT\Desktop\Oop\Applying Encapsulation with User\Applying Encapsulation with User\bin\Debug\Applying Encapsulation with User.pdb
+C:\Users\ACT-STUDENT\Desktop\Oop\Applying Encapsulation with User\Applying Encapsulation with User\obj\Debug\Applying Encapsulation with User.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Oop\Applying Encapsulation with User\Applying Encapsulation with User\obj\Debug\Applying Encapsulation with User.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Oop\Applying Encapsulation with User\Applying Encapsulation with User\obj\Debug\Applying Encapsulation with User.exe
+C:\Users\ACT-STUDENT\Desktop\Oop\Applying Encapsulation with User\Applying Encapsulation with User\obj\Debug\Applying Encapsulation with User.pdb
