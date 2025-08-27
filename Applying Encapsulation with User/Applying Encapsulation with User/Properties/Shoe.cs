@@ -16,9 +16,9 @@ namespace Applying_Encapsulation_with_User.Properties
         public void Displayinfo()
         {
             Console.WriteLine();
-            Console.WriteLine("             Brand of the shoe:     ");
+            Console.WriteLine("             Brand of the shoe:     " + name );
             Console.WriteLine();
-            Console.WriteLine("                     The Color:     ");
+            Console.WriteLine("                     The Color:     " + color );
             Console.ReadKey();
 
         }
