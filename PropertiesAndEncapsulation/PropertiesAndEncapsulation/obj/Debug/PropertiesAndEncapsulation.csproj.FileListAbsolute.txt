@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Desktop\Ooprog\PropertiesAndEncapsulation\PropertiesAndEncapsulation\bin\Debug\PropertiesAndEncapsulation.exe.config
+C:\Users\ACT-STUDENT\Desktop\Ooprog\PropertiesAndEncapsulation\PropertiesAndEncapsulation\bin\Debug\PropertiesAndEncapsulation.exe
+C:\Users\ACT-STUDENT\Desktop\Ooprog\PropertiesAndEncapsulation\PropertiesAndEncapsulation\bin\Debug\PropertiesAndEncapsulation.pdb
+C:\Users\ACT-STUDENT\Desktop\Ooprog\PropertiesAndEncapsulation\PropertiesAndEncapsulation\obj\Debug\PropertiesAndEncapsulation.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Ooprog\PropertiesAndEncapsulation\PropertiesAndEncapsulation\obj\Debug\PropertiesAndEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Ooprog\PropertiesAndEncapsulation\PropertiesAndEncapsulation\obj\Debug\PropertiesAndEncapsulation.exe
+C:\Users\ACT-STUDENT\Desktop\Ooprog\PropertiesAndEncapsulation\PropertiesAndEncapsulation\obj\Debug\PropertiesAndEncapsulation.pdb
