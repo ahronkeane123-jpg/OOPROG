@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\New folder\Simple Inheritance\Simple inheritance\Simple inheritance\bin\Debug\Simple inheritance.exe.config
+C:\Users\ACT-STUDENT\Desktop\New folder\Simple Inheritance\Simple inheritance\Simple inheritance\bin\Debug\Simple inheritance.exe
+C:\Users\ACT-STUDENT\Desktop\New folder\Simple Inheritance\Simple inheritance\Simple inheritance\bin\Debug\Simple inheritance.pdb
+C:\Users\ACT-STUDENT\Desktop\New folder\Simple Inheritance\Simple inheritance\Simple inheritance\obj\Debug\Simple inheritance.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\New folder\Simple Inheritance\Simple inheritance\Simple inheritance\obj\Debug\Simple inheritance.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\New folder\Simple Inheritance\Simple inheritance\Simple inheritance\obj\Debug\Simple inheritance.exe
+C:\Users\ACT-STUDENT\Desktop\New folder\Simple Inheritance\Simple inheritance\Simple inheritance\obj\Debug\Simple inheritance.pdb
+C:\Users\ACT-STUDENT\Desktop\New folder\Simple Inheritance\Simple inheritance\Simple inheritance\obj\Debug\Simple inheritance.exe.config
